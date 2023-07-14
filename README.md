@@ -1,2 +1,2 @@
 # SwarmLab-Internship
-My Github Repository for my Remote Internship at SwarmLab UT Austin
+My Github Repository for my Internship at SwarmLab UT Austin
